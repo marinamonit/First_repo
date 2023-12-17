@@ -1,0 +1,4 @@
+Shokolad, arbuz, kartoha
+Tsvetok, derevo, reka
+Andrey, Kristina, Gena
+3, 4, 7, 9
